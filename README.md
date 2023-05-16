@@ -32,5 +32,7 @@ If you are reading this and you are not from DALI lab, you will need to create a
         npm install
         npm run dev
         
+The frontend and backend need to run on the same machine. To get multiple users logged in, you can click the "Login with Spotify" button multiple times, just sign in with a different account each time. 
+        
      
 
